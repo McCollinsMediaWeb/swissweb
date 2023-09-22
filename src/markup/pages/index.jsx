@@ -58,7 +58,7 @@ function Index() {
 				
 				<TestimonialSection />
 				{/* <iframe src='https://widget-153800baf3784e00bcabad3c5675eb3c.elfsig.ht' width='100%' height='1000' frameborder='0'></iframe> */}
-				<div className='wid-cst'>
+				<div className='wid-cst sct'>
 				<ElfsightWidget widgetId={"153800ba-f378-4e00-bcab-ad3c5675eb3c"} lazy />;
 				<ElfsightWidget widgetId={"4d5c4a86-db7a-46b3-9d85-a65483b969c1"} lazy />;
 				
